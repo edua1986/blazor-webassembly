@@ -5,3 +5,34 @@ Blazor WebAssambly, en .NET CORE 5
 Soluciónn para Single Page Application | SPA
 Progessive Web App | PWA
 
+Principal problema de Blazor; La primera carga/solicitud, es lenta, pero mejora con cada entrega
+IIS va a ser remplazada con 
+
+
+PWA, se ejecuta como si fuera una app nativa
+Desconectado, solo se conecta si lo necesita
+Notificaciones Push
+
+Proyecto Open Source
+Mantenido por Microsoft y la comunidad
+
+WebAssambly, lenguaje de programación bajo nivel, pero, con Blazor facilita la progracion a alt nivel, con C#
+Se ejecuta en el cliente
+
+HTML + CSS + C#                     Blazor WebAssambly
+en lugar de                         en lugar de
+HTML + CSS + JavaScript             React, Vue, Angular
+
+
+C# --> JavaScript | JavaScript --> C#
+
+Index.html --> Es la unica pagina
+Index.Razor --> Componente
+
+
+@onclik --> C# Razor
+onclick --> Javascript
+
+Code Behind
+Index.Razor
+Index.Razor.cs
