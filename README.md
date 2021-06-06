@@ -1,4 +1,4 @@
-# blazor-webassembly
+# Blazor-WebAssembly
 Capacitación en blazor webassembly, con .NET CORE 5
 Instructor; Miguel Muñoz
 Herramientas; Visual Studio Community 2019, version 16.9.1 | .NET Core 5 | C#
